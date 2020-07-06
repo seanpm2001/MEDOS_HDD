@@ -1,0 +1,48 @@
+Prices:
+
+Season 1 Pricing 
+
+10 Megabytes - $0.0000010 per device permanently until used up
+25 Megabytes - $0.0000025 per device permanently until used up
+50 Megabytes - $0.0000050 per device permanently until used up
+100 Megabytes - $0.00001 per device permanently until used up
+1 Gigabyte - $0.00010 per device permanently until used up
+2.5 Gigabytes - $0.0001 per device permanently until used up
+5 Gigabytes - $0.0005 per device permanently until used up
+10 Gigabytes - $0.0010 per device permanently until used up
+20 Gigabytes - $0.0020 per device permanently until used up
+50 Gigabytes - $0.0050 per device permanently until used up
+100 Gigabytes - $0.0100 per device permanently until used up
+250 Gigabytes - $0.0250 per device permanently until used up
+500 Gigabytes - $0.0500 per device permanently until used up
+1 Terabyte - $00.1000 per device permanently until used up
+2.5 Terabytes - $00.2500 per device permanently until used up
+5 Terabytes - $00.5000 per device permanently until used up
+10 Terabytes - $1.0000 per device permanently until used up
+16 Terabytes - $1.6000 per device permanently until used up
+25 Terabytes - $2.50000 per device permanently until used up
+50 Terabytes - $5.00000 per device permanently until used up
+100 Terabytes - $10.00000 per device permanently until used up
+
+NOTE: this is a server cost, this doesn't pay for your internet connection 
+unfortunately
+You don't get charged for all the data on the hard drive when connected, just the
+current amount that is being read/written
+when your device is offline, you don't get a charge, prices are adjusted when the
+economy changes to make sure you have a fair deal
+Data purchased is stackable for an infinite amount of time
+
+Each hard drive purchase comes with a free trial
+every megabyte on the hard drive is a free 100 kilobytes on your plan
+example: buying a 512 GB USB drive
+512 GB =
+512,000,000,000 bytes
+the plan you get for free with that: 51.2 Gigabytes for FREE
+if you already have a plan going, it will add to that plan, and add an additional
+1 GB (no matter what the amount is)
+
+Server space doesn't really cost much, so we shouldn't overcharge people for using it
+like a lot of other cellular companies do
+However, the prices are still there, as it takes a little bit of power to run a
+server like this to broadcast your servers
+
