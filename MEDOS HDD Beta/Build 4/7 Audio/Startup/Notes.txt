@@ -1,0 +1,24 @@
+NOOOO!
+The startup sound is over 3x bigger than the operating system
+
+Part 1 is a test of Audacity mixing my audio down to 2 stereo
+
+Original sounds:
+Welcome back - Stephen Hawking
+Old Ubuntu startup sound
+
+the official startup sound contains:
+
+Welcome back - Stephen Hawking
+Old Ubuntu startup sound
+Windows 98 startup sound
+Remix of MacOS startup sound
+
+It may not sound the best, but it is all I can do for right now
+
+Inspired by:
+
+Microsoft 
+Apple
+Canonical
+My old MEDOS commercial
