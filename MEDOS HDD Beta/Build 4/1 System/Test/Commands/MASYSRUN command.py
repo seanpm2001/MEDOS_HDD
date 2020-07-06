@@ -1,0 +1,32 @@
+in1 = str
+print ("Command testing")
+print ("Test the Mac System {OLD} compatibility command")
+print ("Type 'MASYSRUN' to try out the command!")
+print ("Warning! Commands are CaSe SeNsItIvE")
+in1 = str(input("FC:\\"))
+if in1 == ("MASYSRUN"):
+	print ("Mac System compatibility center")
+	print ("0 System 1")
+	print ("1 System 2")
+	print ("2 System 3")
+	print ("3 System 4")
+	print ("4 System 5")
+	print ("5 System 6")
+	print ("6 System 7")
+	print ("7 System 8")
+	print ("8 System 8.1")
+	print ("9 System 8.5")
+	print ("A System 8.6")
+	print ("B System 9")
+	print ("C System 9.1")
+	print ("D System 9.2.2")
+	print ("Choose a number 0-9 or A-D then click enter to continue compatibility testing")
+	print ("Type XE to quit")
+	print (in1)
+testconfirm = int(input("Did the command info look right? type 1 to confirm, type anything else and/or press enter to quit "))
+if testconfirm == 1:
+    print ("Test successful!")
+    print ("Shutting down, please wait")
+else:
+    print ("Shutting down")
+   
