@@ -1,0 +1,95 @@
+<?xml version="1.0" standalone="no" ?>
+<!DOCTYPE project PUBLIC "-//audacityproject-1.3.0//DTD//EN" "http://audacity.sourceforge.net/xml/audacityproject-1.3.0.dtd" >
+<project xmlns="http://audacity.sourceforge.net/xml/" projname="Audacity Project 2 _data" version="1.3.0" audacityversion="2.2.2" sel0="0.0000000000" sel1="0.0000000000" vpos="624" h="0.0000000000" zoom="151.2361225329" rate="44100.0" snapto="off" selectionformat="hh:mm:ss + milliseconds" frequencyformat="Hz" bandwidthformat="octaves">
+	<tags>
+		<tag name="ARTIST" value="Sean Walla Walla"/>
+		<tag name="TITLE" value="MEDOS System"/>
+		<tag name="ALBUM" value="MEDOS System"/>
+		<tag name="YEAR" value="8/10/2018"/>
+		<tag name="Software" value="Lavf58.17.101"/>
+		<tag name="TRACKNUMBER" value="1 "/>
+		<tag name="GENRE" value="System"/>
+	</tags>
+	<wavetrack name="audio" channel="2" linked="0" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="22050" gain="6.309574" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="27162">
+				<waveblock start="0">
+					<simpleblockfile filename="e0808eeb.au" len="27162" min="-0.721436" max="0.730194" rms="0.06915"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="Old UBUNTU startup sound" channel="0" linked="1" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="345088">
+				<waveblock start="0">
+					<simpleblockfile filename="e08089cf.au" len="262144" min="-0.652802" max="0.842773" rms="0.141464"/>
+				</waveblock>
+				<waveblock start="262144">
+					<simpleblockfile filename="e0808ad6.au" len="82944" min="-0.020508" max="0.02475" rms="0.002418"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="Old UBUNTU startup sound" channel="1" linked="0" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="345088">
+				<waveblock start="0">
+					<simpleblockfile filename="e080850b.au" len="262144" min="-0.891357" max="0.929138" rms="0.17396"/>
+				</waveblock>
+				<waveblock start="262144">
+					<simpleblockfile filename="e0808229.au" len="82944" min="-0.032837" max="0.027527" rms="0.002408"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="videoplayback (1)" channel="0" linked="1" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="135168">
+				<waveblock start="0">
+					<simpleblockfile filename="e0808eca.au" len="135168" min="-0.75" max="0.689178" rms="0.188822"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="videoplayback (1)" channel="1" linked="0" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="135168">
+				<waveblock start="0">
+					<simpleblockfile filename="e0808e67.au" len="135168" min="-0.75293" max="0.686188" rms="0.188823"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="videoplayback" channel="0" linked="1" mute="0" solo="0" height="150" minimized="0" isSelected="1" rate="44100" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="350208">
+				<waveblock start="0">
+					<simpleblockfile filename="e0808097.au" len="262144" min="-0.584991" max="0.597748" rms="0.123105"/>
+				</waveblock>
+				<waveblock start="262144">
+					<simpleblockfile filename="e08082c6.au" len="88064" min="-0.116791" max="0.159332" rms="0.019532"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="videoplayback" channel="1" linked="0" mute="0" solo="0" height="150" minimized="0" isSelected="1" rate="44100" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="350208">
+				<waveblock start="0">
+					<simpleblockfile filename="e0808b3c.au" len="262144" min="-0.559509" max="0.546082" rms="0.125694"/>
+				</waveblock>
+				<waveblock start="262144">
+					<simpleblockfile filename="e0808c77.au" len="88064" min="-0.138184" max="0.149109" rms="0.019159"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+</project>
