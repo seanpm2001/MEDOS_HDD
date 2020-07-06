@@ -1,0 +1,33 @@
+in1 = str
+print ("Command testing")
+print ("Opening command: TASKMAN")
+print ("Command type: System resource management")
+print ("Command size: 1329 bytes (1.29 Kilobytes)")
+print ("Total lines of code used: 33")
+print ("Command file format: .py (python file)")
+print ("Location: Calculation Error!")
+print ("Test the Task Management command")
+print ("Type 'TASKMAN' to try out the command!")
+in1 = str(input("FC://"))
+if in1 == ("TASKMAN"):
+	print ("=|=|=|=|=|=|=|=|=|=|=|=|=|=|=|=|")
+	print ("MEDOS Task Management Center")
+	print ("==================================")
+	print ("| FC Drive (emulated resources)    |")
+	print ("| CPU    | DISK  |  RAM   | MEMORY |")
+	print ("| 001%   | 00.5% | 14 KB  | 2.8 MB |")
+	print ("==================================")
+	print ("| Receiver (emulated resources)    |")
+	print ("| CPU    | DISK  |  RAM   | MEMORY |")
+	print ("| 049%   | 038%  | 252 MB | 480 MB |")
+	print ("====================================")
+	print ("*****")
+	print ("The command worked!")
+print (in1)
+testconfirm = int(input("Did the command info look right? type 1 to confirm, type anything else and/or press enter to quit "))
+if testconfirm == 1:
+    print ("Command testing successful")
+    print ("Exiting command help center")
+else:
+    print ("Exiting command help center")
+    
