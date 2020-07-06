@@ -1,0 +1,28 @@
+During day 2 of our development, something was pointed out that we didn't know about. There already is a concept slightly similar called ASM (Autonomous systems) 
+
+We didn't realize this, and we aren't stopping development, as this operating system is completely different than that
+
+Our system doesn't go off a single server, it goes off ANY hard drive you set it to. it is cross-compatible with a large variety of operating systems, Linux, Windows, Unix, and
+Mac, with several differences such as:
+
+- command line interface
+- system compatibility
+- mounting and unmounting
+- how it runs off a device
+- file compatibility
+- previewing
+- network communications
+- virtual machine functionality
+- can also be used as an unmounted hard drive image, letting you run an operating system without a virtual machine
+- modern floppy image compatibility
+- speed 
+- hardware and system ID sheets
+- the programming language it is written in (python)
+- the commands and their names 
+- the functionality of the commands
+- using both online and offline
+- running without plugging the device into another device
+- portable internet connection
+- separate data service
+- open source
+- 
