@@ -1,0 +1,56 @@
+MEDOS Beta Public SDK 1 Script
+
+Say Hello to MEDOS
+
+The operating system designed for Storage
+				  Offline file transfer
+				  Online File transfer
+				  Virtual machines
+
+With high compatibility for files and older systems
+Ranging from 1950 to 2018
+Windows 1.0 to Windows 10 shows
+Linux shows
+Mac System 1 to MacOS 10.14
+Android 1.1 to Android Pie 9.0
+iOS 1 to iOS 11
+
+Offline and Online usage
+
+Use your storage device without even plugging it in
+
+Legacy options for software and hardware
+
+Use MEDOS with your Cassette Tapes
+		    Floppy Disks
+	    	    CDs
+    		    DVDs
+                    Blu-Ray Disks
+		    USB drives
+		    Hard Drives
+		    SD cards
+
+Built from the ground up using Python 3.6
+
+Easy-to-use open source operating system NOT from Linux or UNIX, completely original code
+
+Access to loads of commands
+<showcases help command clip>
+
+Fun-exciting command line features like:
+The DOSTOP
+<Clip of DOSTOP>
+
+ASCII and Binary screensavers
+<clip of PINEFALL>
+<clip of DNAFARM>
+
+Now it is up to you to continue development
+<shows Update log command>
+<shows FC drive program>
+<shows 
+
+Get the SDK for MEDOS 5 completely free!
+
+Build 5 with everything
+Build 5B with everything but the Sound effects, Python installation and Audacity installation files (over 300x larger) 
