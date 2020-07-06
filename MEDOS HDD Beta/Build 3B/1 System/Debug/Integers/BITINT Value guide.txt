@@ -1,0 +1,5 @@
+Values:
+8 bit = 256 
+16 bit = 65,536
+32 bit = 
+64 bit = 

@@ -1,0 +1,261 @@
+_____________________________________________
+|Compatibility log for MEDOS Integer testing|
+\===========================================/
+
+_______________________________________________________________________________________________________
+                  |                |                           |                                      |
+8 bit test        ()  16 bit test  () 32 bit test              () 64 bit test                         | 
+                  |                |                           |                                      |
+Windows 1.0       | Windows 3.0    | Windows NT 3.1            | Windows XP 64 bit                    |
+Windows 1.01      | Windows 3.1    | Windows NT 3.5            | Windows Vista                        |
+Windows 1.02      | Windows 3.2    | Windows 95                | Windows Server 2008                  |
+Windows 1.03      |                | Windows NT 4              | Windows 7                            | 
+Windows 1.04      | Mac System 4   | Windows 98                | Windows Server 2008 R2               |
+Windows 2.0       | Mac System 5   | Windows 98 Second Edition | Windows 8                            |
+Windows 2.01      | Mac System 6   | Windows ME                | Windows Server 2012                  |                  
+Windows 2.02      |                | Windows 2000              | Windows 8.1                          |
+Windows 2.03      | PC-DOS 7.0     | Windows XP Starter        | Windows Server 2012 R2               |
+Windows 2.04      |                | Windows XP Home           | Windows 10                           |
+Windows 2.10      |                | Windows XP Professional   | Windows Server 2016                  |
+                  |                | Windows Server 2003       |                                      |
+Mac System 1      |                | Windows Vista             | Mac OS X 10.3                        |
+Mac System 2      |                | Windows Server 2003 R2    | Mac OS X 10.4                        |
+Mac System 3      |                | Windows Server 2008       | Mac OS X 10.5                        |
+                  |                | Windows 7                 | Mac OS X 10.6                        |
+PC-DOS 1.0        |                | Windows Server 2008 R2    | Mac OS X 10.7                        |
+PC-DOS 2.0        |                | Windows 8                 | OS X 10.8                            |
+PC-DOS 3.0        |                | Windows Server 2012       | OS X 10.9                            | 
+PC-DOS 4.0        |                | Windows 8.1               | OS X 10.10                           |
+PC-DOS 5.0        |                | Windows Server 2012 R2    | OS X 10.11                           |
+PC-DOS 6.0        |                | Windows 10                | MacOS 10.12                          |
+PC-DOS 6.1        |                | Windows Server 2016       | MacOS 10.13                          |
+                  |                |                           | MacOS 10.14                          |
+                  |                | Mac System 7              |                                      |
+                  |                | Mac System 7.6            | Android 5.0                          |
+                  |                | Mac System 8              | Android 5.1                          |
+                  |                | Mac System 9              | Android 6.0                          |
+                  |                | Mac OS X                  | Android 6.1                          |
+                  |                | Mac OS X 10.1             | Android 7.0                          |
+                  |                | Mac OS X 10.2             | Android 7.1                          |
+                  |                | Mac OS X 10.3             | Android 8.0                          |
+                  |                | Mac OS X 10.4             | Android 8.1                          |
+                  |                | Mac OS X 10.5             | Android 9.0                          |
+                  |                | Mac OS X 10.6             |                                      |
+                  |                |                           | iOS 7                                |
+                  |                | Android 1.0               | iOS 8                                |
+                  |                | Android 1.1               | iOS 9                                |
+                  |                | Android 1.5               | iOS 10                               |
+                  |                | Android 1.6               | iOS 10.3                             |
+                  |                | Android 2.0               | iOS 11                               |
+                  |                | Android 2.1               | iOS 12                               |
+                  |                | Android 2.2               |                                      |
+                  |                | Android 2.3               | Ubuntu 12.04                         |
+                  |                | Android 3.0               | Ubuntu 12.10                         |
+                  |                | Android 3.1               | Ubuntu 13.04                         |
+                  |                | Android 4.0               | Ubuntu 13.10                         |
+                  |                | Android 4.1               | Ubuntu 14.04                         | 
+                  |                | Android 4.4               | Ubuntu 14.10                         |
+                  |                | Android 5.0               | Ubuntu 15.04                         |
+                  |                | Android 5.1               | Ubuntu 15.10                         |
+                  |                | Android 6.0               | Ubuntu 16.04                         |
+                  |                | Android 6.1               | Ubuntu 16.10                         |
+                  |                | Android 7.0               | Ubuntu 17.04                         | 
+                  |                | Android 7.1               | Ubuntu 17.10                         |
+                  |                | Android 8.0               | Ubuntu 18.04                         |
+                  |                | Android 8.1               | Ubuntu 18.10                         |
+                  |                |                           |                                      |
+                  |                | iPhone OS 1               | Solaris 7                            |
+                  |                | iPhone OS 2               | Solaris 8                            |
+                  |                | iPhone OS 3               | Solaris 9                            |
+                  |                |                           | Solaris 10                           |
+                  |                | iOS 4                     | Solaris 11                           |
+                  |                | iOS 5                     |                                      |
+                  |                | iOS 6                     |
+                  |                | iOS 7                     |
+                  |                | iOS 8                     |
+                  |                | iOS 9                     |
+                  |                | iOS 10                    |
+                  |                |                           |
+                  |                | Ubuntu 4.04               |
+                  |                | Ubuntu 4.10               |
+                  |                | Ubuntu 5.04               | 
+                  |                | Ubuntu 5.10               |
+                  |                | Ubuntu 6.04               |
+                  |                | Ubuntu 6.10               |
+                  |                | Ubuntu 7.04               |
+                  |                | Ubuntu 7.10               |
+                  |                | Ubuntu 8.04               |
+                  |                | Ubuntu 8.10               |
+                  |                | Ubuntu 9.04               |
+                  |                | Ubuntu 9.10               |
+                  |                | Ubuntu 10.4               |
+                  |                | Ubuntu 10.10              |
+                  |                | Ubuntu 11.04              |
+                  |                | Ubuntu 11.10              |
+                  |                | Ubuntu 12.04              |
+                  |                | Ubuntu 12.10              |
+                  |                | Ubuntu 13.04              |
+                  |                | Ubuntu 13.10              |
+                  |                | Ubuntu 14.04              |
+                  |                | Ubuntu 14.10              |
+                  |                | Ubuntu 15.04              |
+                  |                | Ubuntu 15.10              |
+                  |                | Ubuntu 16.04              |
+                  |                | Ubuntu 16.10              |
+                  |                | Ubuntu 17.04              |
+                  |                | Ubuntu 17.10              |
+                  |                | Ubuntu 18.04              |
+                  |                | Ubuntu 18.10              |
+                  |                |                           |
+                  |                |                           |
+                  |                |                           |
+                  |                |                           |
+                  |                |                           |
+                  |                |                           |
+                  |                |                           |
+                  |                |                           |
+                  |                |                           |
+                  |                |                           |
+                  |                |                           |
+                  |                |                           |
+                  |                |                           |
+                  |                |                           |
+                  |                |                           |
+                  |                |                           |
+                  |                |                           |
+                  |                |                           |
+                  |                |                           |
+                  |                |                           |
+                  |                |                           |
+                  |                |                           |
+                  |                |                           |
+                  |                |                           |
+                  |                |                           |
+                  |                |                           |
+                  |                |                           |
+                  |                |                           |
+                  |                |                           |
+                  |                |                           |
+                  |                |                           |
+                  |                |                           |
+                  |                |                           |
+                  |                |                           |
+                  |                |                           |
+                  |                |                           |
+                  |                |                           |
+                  |                |                           |
+                  |                |                           |
+                  |                |                           |
+                  |                |                           |
+                  |                |                           |
+                  |                |                           |
+                  |                |                           |
+                  |                |                           |
+                  |                |                           |
+                  |                |                           |
+                  |                |                           |
+                  |                |                           |
+                  |                |                           |
+                  |                |                           |
+                  |                |                           |
+                  |                |                           |
+                  |                |                           |
+                  |                |                           |
+                  |                |                           |
+                  |                |                           |
+                  |                |                           |
+                  |                |                           |
+                  |                |                           |
+                  |                |                           |
+                  |                |                           |
+                  |                |                           |
+                  |                |                           |
+                  |                |                           |
+                  |                |                           |
+                  |                |                           |
+                  |                |                           |
+                  |                |                           |
+                  |                |                           |
+                  |                |                           |
+                  |                |                           |
+                  |                |                           |
+                  |                |                           |
+                  |                |                           |
+                  |                |                           |
+                  |                |                           |
+                  |                |                           |
+                  |                |                           |
+                  |                |                           |
+                  |                |                           |
+                  |                |                           |
+                  |                |                           |
+                  |                |                           |
+                  |                |                           |
+                  |                |                           |
+                  |                |                           |
+                  |                |                           |
+                  |                |                           |
+                  |                |                           |
+                  |                |                           |
+                  |                |                           |
+                  |                |                           |
+                  |                |                           |
+                  |                |                           |
+                  |                |                           |
+                  |                |                           |
+                  |                |                           |
+                  |                |                           |
+                  |                |                           |
+                  |                |                           |
+                  |                |                           |
+                  |                |                           |
+                  |                |                           |
+                  |                |                           |
+                  |                |                           |
+                  |                |                           |
+                  |                |                           |
+                  |                |                           |
+                  |                |                           |
+                  |                |                           |
+                  |                |                           |
+                  |                |                           |
+                  |                |                           |
+                  |                |                           |
+                  |                |                           |
+                  |                |                           |
+                  |                |                           |
+                  |                |                           |
+                  |                |                           |
+                  |                |                           |
+                  |                |                           |
+                  |                |                           |
+                  |                |                           |
+                  |                |                           |
+                  |                |                           |
+                  |                |                           |
+                  |                |                           |
+                  |                |                           |
+                  |                |                           |
+                  |                |                           |
+                  |                |                           |
+                  |                |                           |
+                  |                |                           |
+                  |                |                           |
+                  |                |                           |
+                  |                |                           |
+                  |                |                           |
+                  |                |                           |
+                  |                |                           |
+                  |                |                           |
+                  |                |                           |
+                  |                |                           |
+                  |                |                           |
+                  |                |                           |
+                  |                |                           |
+                  |                |                           |
+                  |                |                           |
+                  |                |                           |
+                  |                |                           |
+                  |                |                           |
+                  |                |                           |
+================================================================
