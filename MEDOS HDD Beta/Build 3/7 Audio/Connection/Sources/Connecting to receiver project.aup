@@ -1,0 +1,63 @@
+<?xml version="1.0" standalone="no" ?>
+<!DOCTYPE project PUBLIC "-//audacityproject-1.3.0//DTD//EN" "http://audacity.sourceforge.net/xml/audacityproject-1.3.0.dtd" >
+<project xmlns="http://audacity.sourceforge.net/xml/" projname="Connecting to receiver project_data" version="1.3.0" audacityversion="2.2.2" sel0="0.0000000000" sel1="0.0000000000" vpos="0" h="0.0000000000" zoom="38.6402264629" rate="44100.0" snapto="off" selectionformat="hh:mm:ss + milliseconds" frequencyformat="Hz" bandwidthformat="octaves">
+	<tags>
+		<tag name="ARTIST" value="Sean Walla Walla"/>
+		<tag name="TITLE" value="MEDOS System"/>
+		<tag name="ALBUM" value="MEDOS System"/>
+		<tag name="YEAR" value="8/10/2018"/>
+		<tag name="Software" value="Lavf58.17.101"/>
+		<tag name="TRACKNUMBER" value="3"/>
+		<tag name="GENRE" value="System"/>
+	</tags>
+	<wavetrack name="Connecting to receiver" channel="0" linked="1" mute="0" solo="0" height="150" minimized="0" isSelected="1" rate="44100" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="1247438">
+				<waveblock start="0">
+					<simpleblockfile filename="e08083a1.au" len="144590" min="-0.286407" max="0.302002" rms="0.056335"/>
+				</waveblock>
+				<waveblock start="144590">
+					<simpleblockfile filename="e080836e.au" len="262144" min="-0.324524" max="0.364227" rms="0.084427"/>
+				</waveblock>
+				<waveblock start="406734">
+					<simpleblockfile filename="e0808bbb.au" len="262144" min="-0.436249" max="0.47467" rms="0.079284"/>
+				</waveblock>
+				<waveblock start="668878">
+					<simpleblockfile filename="e080865d.au" len="262144" min="-0.427948" max="0.463562" rms="0.077033"/>
+				</waveblock>
+				<waveblock start="931022">
+					<simpleblockfile filename="e0808797.au" len="262144" min="-0.490723" max="0.4841" rms="0.097467"/>
+				</waveblock>
+				<waveblock start="1193166">
+					<simpleblockfile filename="e0808548.au" len="54272" min="-0.000244" max="0.000519" rms="0.000111"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="Connecting to receiver" channel="1" linked="0" mute="0" solo="0" height="150" minimized="0" isSelected="1" rate="44100" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="1247438">
+				<waveblock start="0">
+					<simpleblockfile filename="e0808bd1.au" len="144590" min="-0.286407" max="0.302002" rms="0.056335"/>
+				</waveblock>
+				<waveblock start="144590">
+					<simpleblockfile filename="e0808ac8.au" len="262144" min="-0.324524" max="0.364227" rms="0.084427"/>
+				</waveblock>
+				<waveblock start="406734">
+					<simpleblockfile filename="e0808362.au" len="262144" min="-0.436249" max="0.47467" rms="0.079284"/>
+				</waveblock>
+				<waveblock start="668878">
+					<simpleblockfile filename="e0808b54.au" len="262144" min="-0.427948" max="0.463562" rms="0.077033"/>
+				</waveblock>
+				<waveblock start="931022">
+					<simpleblockfile filename="e0808abd.au" len="262144" min="-0.490723" max="0.4841" rms="0.097467"/>
+				</waveblock>
+				<waveblock start="1193166">
+					<simpleblockfile filename="e0808e48.au" len="54272" min="-0.000244" max="0.000519" rms="0.000111"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+</project>
