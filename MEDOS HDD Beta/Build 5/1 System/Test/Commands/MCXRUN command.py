@@ -1,0 +1,33 @@
+in1 = str
+print ("Command testing")
+print ("Test the Mac OS X Series compatibility command")
+print ("Type 'MCXRUN' to try out the command!")
+print ("Warning! Commands are CaSe SeNsItIvE")
+in1 = str(input("FC:\\"))
+if in1 == ("MCXRUN"):
+	print ("Mac OS X compatibility center")
+	print ("0 Mac OS X 10.0")
+	print ("1 Mac OS X 10.1")
+	print ("2 Mac OS X 10.2")
+	print ("3 Mac OS X 10.3")
+	print ("4 Mac OS X 10.4")
+	print ("5 Mac OS X 10.5")
+	print ("6 Mac OS X 10.6")
+	print ("7 Mac OS X 10.7")
+	print ("8 OS X 10.8")
+	print ("9 OS X 10.9")
+	print ("A OS X 10.10")
+	print ("B OS X 10.11")
+	print ("C MacOS 10.12")
+	print ("D MacOS 10.13")
+	print ("E MacOS 10.14")
+	print ("Choose a number 0-9 or A-E then click enter to continue compatibility testing")
+	print ("Type XE to quit")
+	print (in1)
+testconfirm = int(input("Did the command info look right? type 1 to confirm, type anything else and/or press enter to quit "))
+if testconfirm == 1:
+    print ("Test successful!")
+    print ("Shutting down, please wait")
+else:
+    print ("Shutting down")
+   

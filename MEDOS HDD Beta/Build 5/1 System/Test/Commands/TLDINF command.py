@@ -1,0 +1,32 @@
+in1 = str
+print ("Command testing")
+print ("Opening command: TLDINF")
+print ("Command type: Network Based URL Help Information")
+print ("Command size: 2163 bytes (2.11 Kilobytes)")
+print ("Total lines of code used: 32")
+print ("Command file format: .py (python file)")
+print ("Location: Calculation Error!")
+print ("Test the help command")
+print ("Type 'TLDINF' to try out the command!")
+in1 = str(input("FC://"))
+if in1 == ("TLDINF"):
+	print ("Welcome to a network guide")
+	print ("This guide is for TOP-LEVEL-DOMAINS (TLD")
+	print ("If you ever went to search for something on the internet, you should have noticed something like .com .edu .net .org at the end of the URL")
+	print ("That is called a top level domain")
+	print ("=============")
+	print ("Examples:")
+	print ("https://www.seanwallawallaonline.com - .COM is the most common and most recognized domain suffix. It stands for 'commercial' and is used by mostly commercial websites. However, anyone who wants to register a domain name can register a name ending in .com, whether their site is going to be used for commercial purposes or not.")
+	print ("That was an example of the COM internet domain")
+	print ("https://www.wikipedia.org - .ORG is a The domain '.org' was one of the original top-level domains, with com, us, edu, gov, mil and net, established in January 1985. It was originally intended for non-profit organizations or organizations of a non-commercial character that did not meet the requirements for other gTLDs.")
+	print ("That was an example of the ORG internet domain")
+	print ("https://www.example.net - .NET is a top-level domain, also known as a TLD. Derived from the word network, it was originally developed for companies involved in networking technology. Today, .net is one of the most popular domain names used by companies all over the world to launch their business online.")
+	print ("That was an example of the NET internet domain")
+	print (in1)
+testconfirm = int(input("Was this information helpful? Y/N "))
+if testconfirm == 1:
+    print ("Test successful!")
+    print ("Shutting down, please wait")
+else:
+    print ("Shutting down")
+   
