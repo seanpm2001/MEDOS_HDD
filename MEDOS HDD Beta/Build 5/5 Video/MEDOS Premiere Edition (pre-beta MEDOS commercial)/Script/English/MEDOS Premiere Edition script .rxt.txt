@@ -1,0 +1,17 @@
+MEDOS Premiere Edition script
+
+scene: 286x computer
+robot voice: Remember me?
+que flashback video of all DOS systems
+que scene 286x computer
+robot voice: I was dominant in the personal computer era for over 20 years
+robot voice: I have fallen out of dominance
+robot voice: However, i am going to make a comeback
+robot voice: With the new Operating System, MEDOS
+robot voice: I will be completely portable, no virtual machines required
+robot voice: I will have the same functionality as other DOS computers, but with more features
+robot voice: I will be completely hackerproof, as i require no internet
+robot voice: I will be able to store up to 16 terabytes of memory, and can be run on any modern system
+robot voice: I am making a comeback
+narrator whisper: MEDOS
+narrator whisper: The future of DOS
